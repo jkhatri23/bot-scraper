@@ -6,6 +6,11 @@ name: Internship Watcher
 # The schedule below is only a backstop for when the pinger is down.
 on:
   workflow_dispatch:
+    inputs:
+      test_email:
+        description: 'Send a test email to prove the SMTP path works, then stop'
+        type: boolean
+        default: false
   schedule:
     - cron: '*/15 * * * *'
 
@@ -24,6 +29,23 @@ jobs:
       - name: Checkout this repo
         uses: actions/checkout@v4
 
+      # Manual escape hatch: proves credentials and SMTP reachability without
+      # waiting for a real listing to show up. Every later step is guarded on
+      # this being off, so a test run does no board work and commits no state.
+      - name: Send test email
+        if: inputs.test_email
+        env:
+          MAIL_USERNAME: ${{ secrets.MAIL_USERNAME }}
+          MAIL_PASSWORD: ${{ secrets.MAIL_PASSWORD }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+          MAIL_FROM: Internship Watcher (test)
+          MAIL_SUBJECT: Internship Watcher SMTP test
+          MAIL_PLAIN: |
+            This is a test send from the Internship Watcher workflow.
+            If you are reading this, SMTP credentials and delivery work.
+          MAIL_HTML: '<p>This is a <b>test send</b> from the Internship Watcher workflow.<br>If you are reading this, SMTP credentials and delivery work.</p>'
+        run: python3 .github/workflow-scripts/send_email.py
+
       # Fetched through the authenticated contents API, not raw.githubusercontent.
       # Anonymous raw is rate limited per source IP, and Actions runners share
       # IPs across customers, so this returned 429 unpredictably. Authenticated
@@ -37,6 +59,7 @@ jobs:
       #
       # Fetched in parallel: the off-season board is ~1 MB and dominates.
       - name: Fetch latest versions of both Simplify boards
+        if: ${{ !inputs.test_email }}
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
@@ -68,46 +91,47 @@ jobs:
           done
 
       - name: Parse Simplify boards and build email
+        if: ${{ !inputs.test_email }}
         id: simplify
         run: python3 .github/workflow-scripts/parse_boards.py
 
+      # Sent by a stdlib script rather than dawidd6/action-send-mail. That action
+      # was re-downloaded from codeload on every run and started returning 429 at
+      # this poll rate; the failure lands in "Set up job", which no step-level
+      # guard can contain, so it killed whole cycles.
       - name: Send Simplify email if new rows found
-        if: steps.simplify.outputs.total != '0'
-        uses: dawidd6/action-send-mail@v3
-        with:
-          server_address: smtp.gmail.com
-          server_port: 465
-          username: ${{ secrets.MAIL_USERNAME }}
-          password: ${{ secrets.MAIL_PASSWORD }}
-          subject: ${{ steps.simplify.outputs.subject }}
-          to: ${{ secrets.MAIL_TO }}
-          from: Internship Watcher
-          html_body: ${{ steps.simplify.outputs.html_body }}
-          body: ${{ steps.simplify.outputs.plain_body }}
+        if: ${{ !inputs.test_email && steps.simplify.outputs.total != '0' }}
+        env:
+          MAIL_USERNAME: ${{ secrets.MAIL_USERNAME }}
+          MAIL_PASSWORD: ${{ secrets.MAIL_PASSWORD }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+          MAIL_FROM: Internship Watcher
+          MAIL_SUBJECT: ${{ steps.simplify.outputs.subject }}
+          MAIL_HTML: ${{ steps.simplify.outputs.html_body }}
+          MAIL_PLAIN: ${{ steps.simplify.outputs.plain_body }}
+        run: python3 .github/workflow-scripts/send_email.py
 
       # Runs even if the Simplify half failed — the two sources are independent,
       # and a bad fetch upstream shouldn't cost us the ATS poll.
       - name: Poll ATS boards and build email
         id: ats
-        if: ${{ !cancelled() }}
+        if: ${{ !cancelled() && !inputs.test_email }}
         run: python3 .github/workflow-scripts/ats_watcher.py
 
       - name: Send ATS email if new roles found
-        if: ${{ !cancelled() && steps.ats.outputs.total != '' && steps.ats.outputs.total != '0' }}
-        uses: dawidd6/action-send-mail@v3
-        with:
-          server_address: smtp.gmail.com
-          server_port: 465
-          username: ${{ secrets.MAIL_USERNAME }}
-          password: ${{ secrets.MAIL_PASSWORD }}
-          subject: ${{ steps.ats.outputs.subject }}
-          to: ${{ secrets.MAIL_TO }}
-          from: Internship Watcher (ATS)
-          html_body: ${{ steps.ats.outputs.html_body }}
-          body: ${{ steps.ats.outputs.plain_body }}
+        if: ${{ !cancelled() && !inputs.test_email && steps.ats.outputs.total != '' && steps.ats.outputs.total != '0' }}
+        env:
+          MAIL_USERNAME: ${{ secrets.MAIL_USERNAME }}
+          MAIL_PASSWORD: ${{ secrets.MAIL_PASSWORD }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+          MAIL_FROM: Internship Watcher (ATS)
+          MAIL_SUBJECT: ${{ steps.ats.outputs.subject }}
+          MAIL_HTML: ${{ steps.ats.outputs.html_body }}
+          MAIL_PLAIN: ${{ steps.ats.outputs.plain_body }}
+        run: python3 .github/workflow-scripts/send_email.py
 
       - name: Save Simplify snapshots for next run
-        if: ${{ !cancelled() && steps.simplify.outcome == 'success' }}
+        if: ${{ !cancelled() && !inputs.test_email && steps.simplify.outcome == 'success' }}
         run: |
           cp current-main.md snapshots/previous-main.md
           cp current-offseason.md snapshots/previous-offseason.md
@@ -115,7 +139,7 @@ jobs:
       # One workflow owning all four state files means one commit and one push,
       # so the two watchers can no longer collide on rebase.
       - name: Commit updated state
-        if: ${{ !cancelled() }}
+        if: ${{ !cancelled() && !inputs.test_email }}
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"

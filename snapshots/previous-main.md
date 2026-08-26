@@ -94,6 +94,8 @@
 
 [Back to top](#summer-2027-tech-internships-by-pitt-csc--simplify)
 
+> 🔗 GitHub strips the code that makes links open in a new tab, so clicking a role here navigates away from the list. The [Simplify extension](https://simplify.jobs/install?utm_source=GHList&utm_medium=newtab) opens them in a new tab instead, so you keep your place.
+
 <table>
 <thead>
 <tr>

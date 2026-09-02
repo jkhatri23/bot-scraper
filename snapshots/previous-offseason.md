@@ -13815,7 +13815,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Lake Mary, FL</td>
 <td>Fall 2026</td>
 <td><div align="center"><a href="https://mhicareers.com/job/Lake-Mary-IT-Data-&-Analytics-Intern-FL-32746/1429739133/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/bf07d431-8aa3-42a5-88b7-264480cd9752?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>7d</td>
+<td>8d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Meridian-Partners?utm_source=GHList&utm_medium=company">Meridian Partners</a></strong></td>
@@ -21062,7 +21062,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </tr>
 <tr>
 <td>↳</td>
-<td>Intern: Economic Policy</td>
+<td>Intern</td>
 <td>Washington, DC</td>
 <td>Fall 2026</td>
 <td>🔒</td>
@@ -21070,7 +21070,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </tr>
 <tr>
 <td>↳</td>
-<td>Intern</td>
+<td>Intern: Economic Policy</td>
 <td>Washington, DC</td>
 <td>Fall 2026</td>
 <td>🔒</td>

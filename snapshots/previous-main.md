@@ -7,15 +7,15 @@
 
 ---
 
-### Browse 1838 Internship Roles by Category
+### Browse 1835 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (638)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (639)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README.md#-product-management-internship-roles)** (134)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (697)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (694)
 
-📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (108)
+📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (107)
 
 🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (261)
 
@@ -130,6 +130,13 @@
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/British-Columbia-Investment?utm_source=GHList&utm_medium=company">British Columbia Investment</a></strong></td>
+<td>Software Engineer Co-op Intern - Investment Tech/Data & Analytics</td>
+<td>Victoria, BC, Canada<br>Vancouver, BC, Canada</td>
+<td><div align="center"><a href="https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Investment-Tech-Data---Analytics----Software-Engineer-Co-op-Internship--Winter-2027-or-Winter---Summer-2027-_JR101596?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/b61abd66-a7ce-474e-b65b-858c33660c84?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>↳</td>
 <td>AI and Automation Engineer Co-op Intern - Winter 2027 - Summer 2027</td>
 <td>Victoria, BC, Canada</td>
 <td><div align="center"><a href="https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/AI-and-Automation-Engineer-Co-op-Internship--Winter---Summer-2027-_JR101597-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/095cf7aa-8dee-4685-b19f-2d1df8abaa01?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
@@ -5997,13 +6004,6 @@
 <td><div align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/89965613241246406?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/0a3f57fc-708c-4b77-9a27-a3fcff485267?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>2d</td>
 </tr>
-<tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Waymo?utm_source=GHList&utm_medium=company">Waymo</a></strong></td>
-<td>Human Behavior Analytics Intern - Safety Research</td>
-<td>Mountain View, CA</td>
-<td><div align="center"><a href="https://careers.withwaymo.com/jobs?gh_jid=8197899&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/555a5129-471f-4c93-8e7b-aa4a1996fa61?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>2d</td>
-</tr>
 
 </tbody>
 </table>
@@ -6030,6 +6030,13 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Waymo?utm_source=GHList&utm_medium=company">Waymo</a></strong></td>
+<td>Human Behavior Analytics Intern - Safety Research</td>
+<td>Mountain View, CA</td>
+<td><div align="center"><a href="https://careers.withwaymo.com/jobs?gh_jid=8197899&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/555a5129-471f-4c93-8e7b-aa4a1996fa61?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>2d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Constellation-Energy?utm_source=GHList&utm_medium=company">Constellation Energy</a></strong></td>
 <td>PMO/Data Analyst Intern</td>
@@ -6672,13 +6679,6 @@
 <td>Data Scientist Intern - Amgen’s Technology & Medical Organizations</td>
 <td>Remote in USA</td>
 <td><div align="center"><a href="https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255722?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/811210da-553e-4d37-b262-9897450dc43d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>6d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Data Engineer Intern</td>
-<td>Remote in USA</td>
-<td><div align="center"><a href="https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255742?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/698feec2-81e2-41f9-854b-5a57cc104ace?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>6d</td>
 </tr>
 <tr>
@@ -7799,13 +7799,6 @@
 <td>Sensor Systems Intern - Data Analytics</td>
 <td>Laurel, MD</td>
 <td><div align="center"><a href="https://careers.jhuapl.edu/jobs/59958?icims=1&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/428e624e-e3b5-4a85-a6d4-73df7e820a9a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>13d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Procter-Gamble-Company?utm_source=GHList&utm_medium=company">Procter & Gamble</a></strong></td>
-<td>Analytics & Insights Intern/Co-op</td>
-<td>Toronto, ON, Canada</td>
-<td><div align="center"><a href="https://pg.wd5.myworkdayjobs.com/1000/job/TORONTO-GO/Analytics---Insights-Internship-Co-op-Summer-2027--Stage-ou-programme-coopratif-en-Analyse-et-veille-stratgique-t-2027_R000158592?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/f991871e-3a03-45a8-bed8-6e0038e44af8?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>13d</td>
 </tr>
 <tr>
@@ -9048,11 +9041,11 @@
 <td>19d</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/CSX?utm_source=GHList&utm_medium=company">CSX</a></strong></td>
 <td>Intermodal Intern - Summer 2027 - Paid</td>
 <td>Jacksonville, FL</td>
 <td><div align="center"><a href="https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54817?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/7446a6fa-1e34-44e8-8b3a-46688131ec9f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>19d</td>
+<td>20d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Mastercard?utm_source=GHList&utm_medium=company">Mastercard</a></strong></td>
@@ -9724,13 +9717,6 @@
 <td>Business Intelligence Intern - Mission Critical</td>
 <td><details><summary><strong>7 locations</strong></summary>Des Moines, IA<br>Austin, TX<br>Tampa, FL<br>Dallas, TX<br>Chicago, IL<br>Minneapolis, MN<br>Atlanta, GA</details></td>
 <td><div align="center"><a href="https://ryancompanies.wd5.myworkdayjobs.com/ryancompanies/job/Minneapolis/Business-Intelligence-Intern--Mission-Critical_R-101961?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/bff3221b-d0ea-4c07-9c51-4ba9501e3a5c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/KeyBank?utm_source=GHList&utm_medium=company">KeyBank</a></strong></td>
-<td>Data Intern - Key Technology & Services - Data Track</td>
-<td>Brooklyn, OH</td>
-<td><div align="center"><a href="https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Data-Track-Internship--Cleveland_R-41385?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/530c60b3-3de0-4a8e-bb7c-5f32553939ac?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>1mo</td>
 </tr>
 <tr>
@@ -10472,7 +10458,7 @@
 </table>
 
 
-🔒 **[See 214 more closed roles →](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)**
+🔒 **[See 217 more closed roles →](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)**
 
 
 
@@ -10601,13 +10587,6 @@
 <td>Algorithmic Trading Developer Co-op - Global Equities</td>
 <td>Toronto, ON, Canada</td>
 <td><div align="center"><a href="https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--Algorithmic-Trading-Developer--16-Months--Co-op-_R-0000187792?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/90bb6df8-68e3-4efc-b9fb-ab125bf7fa9f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>3d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Freddie-Mac?utm_source=GHList&utm_medium=company">Freddie Mac</a></strong></td>
-<td>Multifamily Business Analysis Graduate Intern - Summer 2027 🎓</td>
-<td>McLean, VA</td>
-<td><div align="center"><a href="https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Business-Analysis-Graduate-Intern---Summer-2027_JR17638?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/49c47091-90b2-468b-9e5c-4879165b0d64?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>3d</td>
 </tr>
 <tr>
@@ -11251,7 +11230,7 @@
 </table>
 
 
-🔒 **[See 142 more closed roles →](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)**
+🔒 **[See 143 more closed roles →](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)**
 
 
 
@@ -11845,13 +11824,6 @@
 <td>8d</td>
 </tr>
 <tr>
-<td>↳</td>
-<td>Test Solutions Engineering Intern - BS - Post-Silicon Hardware Validation</td>
-<td>Burlington, VT</td>
-<td><div align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Burlington-VT/Test-Solutions-Engineering-Intern--BS---Summer-2027_2603835-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/f110d4a7-32ed-49ae-a14e-357e17fe995a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>8d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/GE-Vernova?utm_source=GHList&utm_medium=company">GE Vernova</a></strong></td>
 <td>Hardware Automation and Test Engineering Intern - Spring/Summer 2027</td>
 <td>Rochester, NY</td>
@@ -12122,6 +12094,13 @@
 <td>Design Verification Intern - BS - Summer 2027</td>
 <td><details><summary><strong>5 locations</strong></summary>Morrisville, NC<br>Austin, TX<br>Santa Clara, CA<br>Boise, ID<br>Westborough, MA</details></td>
 <td><div align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Design-Verification-Intern--BS---Summer-2027_2604505?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/09fd06f3-ffee-4273-adf4-17b10e35aa2f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>13d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Physical Design Engineer Intern - BS</td>
+<td><details><summary><strong>7 locations</strong></summary>Morrisville, NC<br>Austin, TX<br>Rochester, MN<br>Santa Clara, CA<br>Boise, ID<br>Burlington, VT<br>Westborough, MA</details></td>
+<td><div align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Physical-Design-Engineer-Intern--BS---Summer-2027_2604517-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/c59f85f4-61b5-40c1-886f-14943e17c10e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>13d</td>
 </tr>
 <tr>

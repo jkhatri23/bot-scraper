@@ -2825,7 +2825,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>South SF</td>
 <td>Spring 2027</td>
 <td><div align="center"><a href="https://www.zipline.com/open-roles?gh_jid=7929354003&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/64b19bed-4841-4d4c-b32d-f5f6f582f38d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>27d</td>
+<td>28d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Fab2?utm_source=GHList&utm_medium=company">Fab2</a></strong></td>
@@ -16999,7 +16999,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Bala Cynwyd, PA</td>
 <td>Fall 2026</td>
 <td><div align="center"><a href="https://careers-sig.icims.com/jobs/11368/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/464cb3bb-4402-4d04-9d07-18a597580fa0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>30d</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory?utm_source=GHList&utm_medium=company">Johns Hopkins Applied Physics Laboratory</a></strong></td>
@@ -19114,7 +19114,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Fontana, CA</td>
 <td>Fall 2026</td>
 <td>🔒</td>
-<td>27d</td>
+<td>28d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Blockhouse?utm_source=GHList&utm_medium=company">Blockhouse</a></strong></td>

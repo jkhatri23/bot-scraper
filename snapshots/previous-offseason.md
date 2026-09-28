@@ -16,11 +16,11 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Off-Season.md#-product-management-internship-roles)** (65)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Off-Season.md#-data-science-ai--machine-learning-internship-roles)** (432)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Off-Season.md#-data-science-ai--machine-learning-internship-roles)** (431)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Off-Season.md#-quantitative-finance-internship-roles)** (30)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Off-Season.md#-hardware-engineering-internship-roles)** (375)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Off-Season.md#-hardware-engineering-internship-roles)** (376)
 
 ---
 
@@ -13006,7 +13006,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>3mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Tencent?utm_source=GHList&utm_medium=company">Tencent</a></strong></td>
+<td>↳</td>
 <td>AI Product Manager Intern 🎓</td>
 <td>London, UK</td>
 <td>Fall 2026</td>
@@ -13890,14 +13890,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>3d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Exclusive-Networks?utm_source=GHList&utm_medium=company">Exclusive Networks</a></strong></td>
-<td>Data Quality & Business Data Analyst Intern</td>
-<td>London, UK</td>
-<td>Winter 2026</td>
-<td><div align="center"><a href="https://exclusivenetworks.wd103.myworkdayjobs.com/Exclusive-Networks-Career/job/London/Data-Quality---Business-Data-Analyst-Intern-6-month-FTC_JR2560-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/b0c9e4b5-a514-4447-bdd1-08645209e8f3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>3d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/CIBC?utm_source=GHList&utm_medium=company">CIBC</a></strong></td>
 <td>AI and Data Analytics and Reporting Analyst Co-op</td>
 <td>Toronto, ON, Canada</td>
@@ -14311,14 +14303,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Lake Buena Vista, FL</td>
 <td>Spring 2027</td>
 <td><div align="center"><a href="https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Decision-Science-Undergraduate-Intern--Spring-2027_10159998-2?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/b8a4dd1f-899e-4f11-ba33-deff7cd3aaae?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>7d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Consumer Insight Data Analyst Intern</td>
-<td>Celebration, FL</td>
-<td>Winter 2027</td>
-<td><div align="center"><a href="https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Celebration-FL-USA/Consumer-Insight-Data-Analyst-Intern--Spring-2027_10159634?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/febbb3a1-f9d6-4592-a921-af46705f885e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>7d</td>
 </tr>
 <tr>
@@ -15199,6 +15183,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>United States</td>
 <td>Winter 2026</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/businessolverinvitationonly/jobs/8189738?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/4cc8603a-045d-4506-b7d3-d174a4194ef0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>16d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/63700e00-0cb3-4c30-914b-c05cb8626d52?utm_source=GHList&utm_medium=company">Cozey</a></strong></td>
+<td>Data Science Intern</td>
+<td>Mount Royal, QC, Canada</td>
+<td>Winter 2026</td>
+<td><div align="center"><a href="https://ats.rippling.com/cozey-internships/jobs/1e50d436-06c1-447c-b676-5e487b19433c?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/ff16852d-9fff-4f7a-818e-26728a2ad542?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>16d</td>
 </tr>
 <tr>
@@ -17262,7 +17254,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1484)</summary>
+<summary>🗃️ Inactive roles (1485)</summary>
 
 <table>
 <thead>
@@ -17281,6 +17273,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Data Science/AI Intern</td>
 <td>Chesterfield, MO</td>
 <td>Fall 2026</td>
+<td>🔒</td>
+<td>3d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Exclusive-Networks?utm_source=GHList&utm_medium=company">Exclusive Networks</a></strong></td>
+<td>Data Quality & Business Data Analyst Intern</td>
+<td>London, UK</td>
+<td>Winter 2026</td>
 <td>🔒</td>
 <td>3d</td>
 </tr>
@@ -17366,6 +17366,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Disney?utm_source=GHList&utm_medium=company">The Walt Disney Company</a></strong></td>
+<td>Consumer Insight Data Analyst Intern</td>
+<td>Celebration, FL</td>
+<td>Winter 2027</td>
+<td>🔒</td>
+<td>7d</td>
+</tr>
+<tr>
+<td>↳</td>
 <td>Consumer Insight Data Analyst Intern</td>
 <td>Celebration, FL</td>
 <td>Winter 2027</td>
@@ -17641,14 +17649,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Healthcare Innovation Intern - AI</td>
 <td>Greensboro, NC</td>
 <td>Winter 2027</td>
-<td>🔒</td>
-<td>16d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/63700e00-0cb3-4c30-914b-c05cb8626d52?utm_source=GHList&utm_medium=company">Cozey</a></strong></td>
-<td>Data Science Intern</td>
-<td>Mount Royal, QC, Canada</td>
-<td>Winter 2026</td>
 <td>🔒</td>
 <td>16d</td>
 </tr>
@@ -29101,7 +29101,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>7mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Disney?utm_source=GHList&utm_medium=company">The Walt Disney Company</a></strong></td>
 <td>ABC Research Insights & Analytics Intern</td>
 <td>Burbank, CA</td>
 <td>Summer 2026, Fall 2026</td>
@@ -31128,6 +31128,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>14d</td>
 </tr>
 <tr>
+<td>↳</td>
+<td>Firmware Engineer Intern</td>
+<td>Ottawa, ON, Canada</td>
+<td>Winter 2026</td>
+<td><div align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Ottawa-Canada/Firmware-Engineer-Intern_2604738-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/ce1940f7-7c29-4bdd-8e79-4e7c906d46c2?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>14d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Autostore?utm_source=GHList&utm_medium=company">Autostore</a></strong></td>
 <td>Electronics Engineering Co-op</td>
 <td>Atlanta, GA</td>
@@ -33036,7 +33044,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (708)</summary>
+<summary>🗃️ Inactive roles (706)</summary>
 
 <table>
 <thead>
@@ -33212,14 +33220,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Marvell?utm_source=GHList&utm_medium=company">Marvell</a></strong></td>
-<td>Firmware Engineer Intern</td>
-<td>Ottawa, ON, Canada</td>
-<td>Winter 2026</td>
-<td>🔒</td>
-<td>14d</td>
-</tr>
-<tr>
-<td>↳</td>
 <td>Analog Layout Engineer Intern</td>
 <td>Santa Clara, CA</td>
 <td>Winter 2026</td>
@@ -38705,14 +38705,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Fall 2026</td>
 <td>🔒</td>
 <td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Advanced-Energy?utm_source=GHList&utm_medium=company">Advanced Energy</a></strong></td>
-<td>Firmware Engineer Intern 🎓</td>
-<td>Burlington, MA</td>
-<td>Spring 2026</td>
-<td>🔒</td>
-<td>8mo</td>
 </tr>
 </tbody>
 </table>

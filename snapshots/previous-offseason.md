@@ -16,11 +16,11 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Off-Season.md#-product-management-internship-roles)** (72)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Off-Season.md#-data-science-ai--machine-learning-internship-roles)** (432)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Off-Season.md#-data-science-ai--machine-learning-internship-roles)** (431)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Off-Season.md#-quantitative-finance-internship-roles)** (28)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Off-Season.md#-hardware-engineering-internship-roles)** (407)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Off-Season.md#-hardware-engineering-internship-roles)** (408)
 
 ---
 
@@ -10892,7 +10892,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Cambridge, MA</td>
 <td>Summer 2026, Fall 2026</td>
 <td>🔒</td>
-<td>5mo</td>
+<td>6mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Tencent?utm_source=GHList&utm_medium=company">Tencent</a></strong></td>
@@ -14882,14 +14882,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>4d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Moog?utm_source=GHList&utm_medium=company">Moog</a></strong></td>
-<td>Artificial Intelligence Intern</td>
-<td>Buffalo, NY</td>
-<td>Fall 2026</td>
-<td><div align="center"><a href="https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Artificial-Intelligence_R-26-20288?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/3fb97c17-713f-4d82-ab2e-8174eeaebfb2?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>4d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Moderna?utm_source=GHList&utm_medium=company">Moderna</a></strong></td>
 <td>Biometrics Co-op</td>
 <td>Cambridge, MA</td>
@@ -17718,7 +17710,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1549)</summary>
+<summary>🗃️ Inactive roles (1550)</summary>
 
 <table>
 <thead>
@@ -17737,6 +17729,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Linguistic Intern</td>
 <td>Pittsburgh, PA</td>
 <td>Winter 2026</td>
+<td>🔒</td>
+<td>4d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Moog?utm_source=GHList&utm_medium=company">Moog</a></strong></td>
+<td>Artificial Intelligence Intern</td>
+<td>Buffalo, NY</td>
+<td>Fall 2026</td>
 <td>🔒</td>
 <td>4d</td>
 </tr>
@@ -31241,10 +31241,10 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Intel?utm_source=GHList&utm_medium=company">Intel</a></strong></td>
-<td>Graphics Hardware Validation Undergraduate Engineering Intern</td>
-<td>Toronto, ON, Canada</td>
-<td>Winter 2026</td>
-<td><div align="center"><a href="https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Graphics-Hardware-Validation-Undergraduate-Engineering-Intern_JR0287535?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/c29d0eb0-d886-48aa-910f-b36696f9f839?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>AI Software Technical Intern 🎓</td>
+<td>Santa Clara, CA</td>
+<td>Winter 2027</td>
+<td><div align="center"><a href="https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/AI-Software-Technical-Intern_JR0287544?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/b9f57b63-1497-43c1-a2c5-1e13174e3c10?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>2d</td>
 </tr>
 <tr>
@@ -33140,6 +33140,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>DRAM Customer Enablement Engineering Intern</td>
 <td>Boise, ID</td>
 <td>Winter 2026</td>
+<td><div align="center"><a href="https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Customer-Enablement-Engineering_JR107740?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/366e5594-f4cf-486f-b2e7-0c33b41e8b18?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>25d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>DRAM Customer Enablement Engineering Intern</td>
+<td>Boise, ID</td>
+<td>Winter 2026</td>
 <td><div align="center"><a href="https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Customer-Enablement-Engineering_JR106521?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/8ba55980-bb00-4f5d-8d2a-4b40243aa2ac?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>25d</td>
 </tr>
@@ -34316,7 +34324,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (755)</summary>
+<summary>🗃️ Inactive roles (754)</summary>
 
 <table>
 <thead>
@@ -34340,9 +34348,9 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Intel?utm_source=GHList&utm_medium=company">Intel</a></strong></td>
-<td>AI Software Technical Intern 🎓</td>
-<td>Santa Clara, CA</td>
-<td>Winter 2027</td>
+<td>Graphics Hardware Validation Undergraduate Engineering Intern</td>
+<td>Toronto, ON, Canada</td>
+<td>Winter 2026</td>
 <td>🔒</td>
 <td>2d</td>
 </tr>
@@ -34863,14 +34871,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Electrical Firmware Co-op</td>
 <td>Cedar Rapids, IA</td>
 <td>Winter 2026, Spring 2027</td>
-<td>🔒</td>
-<td>25d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Micron-Technology?utm_source=GHList&utm_medium=company">Micron Technology</a></strong></td>
-<td>DRAM Customer Enablement Engineering Intern</td>
-<td>Boise, ID</td>
-<td>Winter 2026</td>
 <td>🔒</td>
 <td>25d</td>
 </tr>

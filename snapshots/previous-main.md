@@ -7,7 +7,7 @@
 
 ---
 
-### Browse 1945 Internship Roles by Category
+### Browse 1944 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (652)
 
@@ -17,7 +17,7 @@
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (107)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (321)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (320)
 
 ---
 
@@ -3199,14 +3199,14 @@
 <td>Research Intern - AI-Native Databases 🎓</td>
 <td>San Jose, CA</td>
 <td><div align="center"><a href="https://jobs.bytedance.com/en/position/7678450462765254965/detail?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/a35fbd54-2c09-4c0e-8677-4b9065708400?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>30d</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Research Intern - AI-Native Databases 🎓</td>
 <td>Seattle, WA</td>
 <td><div align="center"><a href="https://jobs.bytedance.com/en/position/7678451067500529925/detail?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/3b02c249-20be-43f2-8ef1-e09f6b887db6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>30d</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory?utm_source=GHList&utm_medium=company">Johns Hopkins Applied Physics Laboratory</a></strong></td>
@@ -9171,7 +9171,7 @@
 <td>Ecosystem Analyst Intern - TikTok LIVE</td>
 <td>LA</td>
 <td><div align="center"><a href="https://lifeattiktok.com/search/7678985103851407669?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/3f7978bc-c83d-4088-abff-540cb9036839?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>30d</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Textron?utm_source=GHList&utm_medium=company">Textron</a></strong></td>
@@ -12587,13 +12587,6 @@
 <td>19d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Marvell?utm_source=GHList&utm_medium=company">Marvell</a></strong></td>
-<td>Architecture Intern - MS 🎓</td>
-<td>Santa Clara, CA</td>
-<td><div align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Architecture-Intern--MS---Summer-2027_2604436?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/f71cdae9-a282-43a7-a49d-7feca7c1b638?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>19d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Johnson-Johnson?utm_source=GHList&utm_medium=company">Johnson & Johnson</a></strong></td>
 <td>Electrical Engineer Intern - Robotics R&D</td>
 <td>Santa Clara, CA</td>
@@ -13850,7 +13843,7 @@
 </table>
 
 
-🔒 **[See 187 more closed roles →](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)**
+🔒 **[See 188 more closed roles →](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)**
 
   <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
   <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
